@@ -48,7 +48,7 @@
     }
 
     if (operacion === 5) {
-      alert("Programa terminado.");
+      alert("Programa terminado, Gracias por usar la Calculadora");
       break; // Sale del bucle
     }
 
